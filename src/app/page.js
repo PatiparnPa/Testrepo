@@ -19,7 +19,7 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-[#FFF7E5] text-center p-6">
       <h1 className="text-4xl font-bold text-orange-500 mb-2">สวัสดี</h1>
-      <p className="text-lg text-gray-700 mb-6">เหล่าสหายที่รักการเดินทางทั้งหลาย</p>
+      <p className="text-lg text-gray-700 mb-6">เหล่าสหายที่รักการเดินทางทั้งหลายยยยยยยยยย</p>
       <div className="mb-6">
         <img src="/duck.png" alt="Ducky" className="w-198 h-296" />
         <p className="text-xl font-medium mt-4">ข้ามีนามว่า <span className="text-orange-500 font-bold">Ducky</span></p>
